@@ -1,0 +1,23 @@
+{
+  "olvide mi clave": "forgot password",
+  "PAGES": {
+    "HOME": {
+      "META": {
+        "SECTION": "Main page"
+      },
+      "WELCOME": "Welcome",
+      "BTN_HOME": "Home",
+      "BTN_ABOUT": "About",
+      "BTN_COUNTRIES": "Countries"
+    },
+    "ABOUT": {
+      "META": {
+        "SECTION": "About"
+      },
+      "TITLE": "Welcome to about section"
+    },
+    "NOT_FOUND": {
+      "DEFAULT": "Page not found"
+    }
+  }
+}
